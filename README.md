@@ -33,14 +33,14 @@
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 Первые ссылки - в основном магазин Great Wall, вторые - WAVGAT. Покупая в одном магазине, вы экономите на доставке!
-- Arduino Nano http://ali.ski/a-r4-  http://ali.ski/bdbXW
-- Потенциометр (10 кОм) http://ali.ski/KiFJH
-- Драйвер маленький http://ali.ski/wqAYZV  http://ali.ski/99RliP
-- Драйвер большой http://ali.ski/HhIFxa  http://ali.ski/2ATgwv
-- Магниты http://ali.ski/2XmIk  http://ali.ski/WpGtB
-- Электромагнит 12V http://ali.ski/ikS0Ee  http://ali.ski/jxCoVD
-- Блок питания 12V 2A http://ali.ski/5H0KX  http://ali.ski/c7Ct4E
-- Яркая лента (белый) http://ali.ski/b_1jJ
+- Arduino Nano https://ali.ski/0x6XdI  https://ali.ski/LcnMP
+- Потенциометр (10 кОм) https://ali.ski/dTyJD
+- Драйвер маленький https://ali.ski/YOq6bK  https://ali.ski/AFgv8y
+- Драйвер большой https://ali.ski/ZfPuYX  https://ali.ski/yDzpzA
+- Магниты https://ali.ski/cH8_P  https://ali.ski/OMBCQa
+- Электромагнит 12V https://ali.ski/ek45R  https://ali.ski/d_SHx
+- Блок питания 12V 2A https://ali.ski/OS8itj  https://ali.ski/A_9GO
+- Яркая лента (белый) https://ali.ski/NOICmz
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
