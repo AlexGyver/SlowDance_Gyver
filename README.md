@@ -30,18 +30,6 @@
 ![SCHEME](https://github.com/AlexGyver/SlowDance_Gyver/blob/master/schemes/scheme2.jpg)
 
 <a id="chapter-3"></a>
-## Материалы и компоненты
-### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-Первые ссылки - в основном магазин Great Wall, вторые - WAVGAT. Покупая в одном магазине, вы экономите на доставке!
-- Arduino Nano http://ali.ski/a-r4-  http://ali.ski/bdbXW
-- Потенциометр (10 кОм) http://ali.ski/KiFJH
-- Драйвер маленький http://ali.ski/wqAYZV  http://ali.ski/99RliP
-- Драйвер большой http://ali.ski/HhIFxa  http://ali.ski/2ATgwv
-- Магниты http://ali.ski/2XmIk  http://ali.ski/WpGtB
-- Электромагнит 12V http://ali.ski/ikS0Ee  http://ali.ski/jxCoVD
-- Блок питания 12V 2A http://ali.ski/5H0KX  http://ali.ski/c7Ct4E
-- Яркая лента (белый) http://ali.ski/b_1jJ
-
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
